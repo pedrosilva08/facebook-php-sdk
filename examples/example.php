@@ -59,7 +59,7 @@ $naitik = $facebook->api('/naitik');
 
 ?>
 <!doctype html>
-<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<html xmlns:fb="http://facebook.com/2008/fbml">
   <head>
     <title>php-sdk</title>
     <style>
